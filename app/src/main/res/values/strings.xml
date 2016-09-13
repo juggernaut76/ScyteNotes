@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScyteNotes</string>
+    <string name="add">Add</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="write">Write</string>
+    <string name="scetch_higlight">Scetch &amp; Highlight</string>
+    <string name="record">Record</string>
+</resources>
+
